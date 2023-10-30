@@ -12,11 +12,10 @@ Instruksi Praktikum
 4. Buat struktur dasar dari dokumen HTML.
 5. Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 6. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
-* Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
 ## Langkah-langkah Praktikum
 * Persiapan membuat dokumen HTML dengan nama file ```lab6_css_framework``` seperti berikut.
 ## Membuat Layout Sederhana
-* Kita akan membuat layout web sederhana seperti gambar berikut.
+* Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
 ![gambar 9](foto/1.png)
 ## Buat folder baru dengan nama ```lab6_css_framework```,  dan file css dengan nama ```style.css```.
 ```python
@@ -330,3 +329,10 @@ box img {
 ```
 ## Hasil Output
 ![gambar 9](foto/1.png)
+## Laporan Praktikum
+1. Buatlah repository baru dengan nama Lab6Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
