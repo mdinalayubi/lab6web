@@ -7,7 +7,7 @@
 ## Instruksi Praktikum
 Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
-2. Buat folder baru dengan nama lab6_css_framework
+2. Buat folder baru dengan nama ```lab6_css_framework```
 3. Buat file baru dokumen html
 4. Buat struktur dasar dari dokumen HTML.
 5. Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
